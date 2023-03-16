@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔥 Streak Stats
+
+![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ghanashyam-Bhat&theme=tokyonight)
+
 ### 📊 Contribution Stats
 
 <img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ghanashyam-Bhat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
