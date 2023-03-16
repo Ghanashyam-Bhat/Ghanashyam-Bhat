@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 📊 Contribution Stats
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ghanashyam-Bhat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width=100px/>
+<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ghanashyam-Bhat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="192px"/>
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
