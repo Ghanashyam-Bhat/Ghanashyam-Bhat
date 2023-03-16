@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style={length:20px}>![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)</div>
+<h4 align="center">Visitor's count :eyes:</h4>
