@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+
+<img alt="Ghanashyam's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ghanashyam-Bhat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Ghanashyam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
 ### 🔥 Streak Stats
 
 ![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ghanashyam-Bhat&theme=tokyonight)
