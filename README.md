@@ -26,3 +26,7 @@ Here are some ideas to get you started:
   
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Ghanashyam-Bhat}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+I have some project ideas, interested developers who wants to collaborate can hit me up at iamgmbhat@gmail.com
+- Building system to enhance collaboration among college students and increase participation in college activities.
+- Stocks app to help traders customize the table and charts dynamically
