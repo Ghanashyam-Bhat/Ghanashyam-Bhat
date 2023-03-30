@@ -28,7 +28,28 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://profile-counter.glitch.me/{Ghanashyam-Bhat}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 ### If you are a developer who is interested in collaborating on project ideas, feel free to contact me at iamgmbhat@gmail.com
-- #### **Synergy** :  Building system to enhance collaboration among college students and increase participation in college activities
-- #### **LiveStock** : Stocks app to help traders customize the table and charts dynamically
-- #### **AroundYou** : Dating app idea for meeting new people
-- #### **mɔzɔzɔ** : Weekend trip organizing app
+
+<details>
+  <summary>
+    Synergy :  Building system to enhance collaboration among college students and increase participation in college activities
+  </summary>
+</details>
+
+<details>
+  <summary>
+    LiveStock : Stocks app to help traders customize the table and charts dynamically
+  </summary>
+</details> 
+
+<details>
+  <summary>
+    AroundYou : Dating app idea for meeting new people
+  </summary>
+</details> 
+
+<details>
+  <summary>
+    mɔzɔzɔ : Weekend trip organizing app
+  </summary>
+</details> 
+
