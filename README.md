@@ -86,6 +86,40 @@ Here are some ideas to get you started:
   <summary>
     LiveStock : Stocks app to help traders customize the table and charts dynamically
   </summary>
+  
+  <br/>
+  
+  **Introduction:**
+  LiveStock is an innovative stocks app that offers traders a dynamic and customizable way to visualize and analyze live stocks data. Our app provides the ability to apply your own mathematics on the existing rows of the live stocks data and create new tables and graphs dynamically.
+
+  **Purpose:**
+  The purpose of LiveStock is to provide traders with a more flexible and personalized way to analyze stocks data. By allowing users to customize their own graphs and tables, our app can help traders to better understand market trends and make more informed decisions about their investments.
+
+  **Target Audience:**
+  Our target audience is primarily active traders who are looking for a more advanced way to analyze and visualize live stocks data. This includes day traders, swing traders, and other experienced traders who require a high level of customization and flexibility in their analysis.
+
+  **Key Features:**
+  1. Customizable Graphs: Our app provides the ability to create custom graphs and charts using the live stocks data. Users can apply their own mathematics and formulas to the data to create personalized graphs that best suit their trading strategies.
+  2. Dynamic Tables: Our app allows users to create dynamic tables that update in real-time with live data. Users can apply their own filters and formulas to the data to create custom tables that provide a more detailed view of the stocks data.
+  3. User-Friendly Interface: LiveStock has a simple and intuitive interface that is easy to navigate and use. Users can quickly and easily create custom graphs and tables using the app's drag-and-drop functionality.
+  4. Real-Time Data: Our app provides real-time data on the stock market, so traders can make informed decisions based on the most up-to-date information.
+
+  **Benefits:**
+  1. Personalized Analysis: LiveStock allows traders to create personalized graphs and tables that best suit their trading strategies, providing a more effective way to analyze stocks data.
+  2. Increased Flexibility: Our app offers a high level of customization and flexibility, allowing traders to apply their own mathematics and formulas to the live stocks data.
+  3. Real-Time Data: LiveStock provides real-time data on the stock market, so traders can make informed decisions based on the most up-to-date information.
+  4. User-Friendly Interface: The app has a simple and intuitive interface that is easy to navigate and use, making it accessible to traders of all levels of experience.
+
+  **Conclusion:**
+  In conclusion, LiveStock is a powerful and innovative stocks app that offers traders a more personalized and flexible way to analyze and visualize live stocks data. With its customizable graphs and tables, real-time data, and user-friendly interface, LiveStock is poised to become a must-have tool for active traders looking to make informed investment decisions.
+  
+**  To stand out among its competitors, the LiveStock app can focus on offering unique and valuable features that are not found in other similar apps. Here are a few suggestions:**
+  1. Simplified interface: While customization and flexibility are crucial, the app's interface should be intuitive and easy to use, even for traders with minimal technical expertise. The app can achieve this by offering a simplified and user-friendly interface that streamlines the customization process.
+  2. Real-time alerts: The LiveStock app can offer real-time alerts for traders, such as when a stock reaches a particular price, to help them make timely investment decisions.
+  3. Machine learning capabilities: The app can leverage machine learning algorithms to provide predictive insights, trend analysis, and personalized recommendations to traders based on their past performance and investment history.
+  4. Seamless integration with brokers: The app can offer seamless integration with popular brokerage platforms to allow traders to execute trades without leaving the app.
+  5. Competitive pricing: Offering a competitive pricing model that is more affordable than other similar apps can attract more traders to use the app.
+
 </details> 
 
 <details>
