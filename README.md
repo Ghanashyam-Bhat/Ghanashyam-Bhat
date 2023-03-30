@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    Synergy :  Building system to enhance collaboration among college students and increase participation in college activities
+    Synergy :  A Collaboration and Engagement System for College Students
   </summary>
-  Project Title: Synergy - A Collaboration and Engagement System for College Students
+  
+  <br/>
+ 
 
   **Project Overview:**
   Synergy is a proposed software system designed to enhance collaboration among college students and increase participation in college activities. The system aims to provide value to students for their active participation in various college activities, including in-house competitions, class engagement, and collaborative projects. The software will allow students to earn credits, which can be redeemed for various benefits within the college, including access to exclusive events, college merchandise, and other rewards.
@@ -67,6 +69,7 @@ Here are some ideas to get you started:
 
   **Conclusion:**
   Synergy is an innovative software system that will revolutionize the way college students engage and collaborate with each other. It will incentivize good behavior in the classroom and promote a culture of teamwork and collaboration, providing students with valuable rewards for their active participation in college activities. By integrating blockchain technology, Synergy has the potential to become a leading platform for the exchange of cryptocurrency within colleges and universities.
+  
 </details>
 
 <details>
