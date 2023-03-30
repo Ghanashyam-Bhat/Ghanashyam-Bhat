@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my world !!!
 
-### 🌐 Also visit my organization for more projects [@2020-HelloWorld](https://github.com/2020-HelloWorld) 
+### 🌐 Also visit my organization [@2020-HelloWorld](https://github.com/2020-HelloWorld) for more projects 
 <!--
 **Ghanashyam-Bhat/Ghanashyam-Bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
