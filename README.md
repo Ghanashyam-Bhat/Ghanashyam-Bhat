@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 - #### **Synergy** :  Building system to enhance collaboration among college students and increase participation in college activities
 - #### **LiveStock** : Stocks app to help traders customize the table and charts dynamically
 - #### **AroundYou** : Dating app idea for meeting new people
+- #### **mɔzɔzɔ** : Weekend trip organizing app
