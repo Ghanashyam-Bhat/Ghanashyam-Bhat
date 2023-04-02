@@ -127,6 +127,49 @@ Here are some ideas to get you started:
   <summary>
     AroundYou : Dating app idea for meeting new people
   </summary>
+  
+  <br/>
+  
+**Introduction**
+AroundYou is a dating app designed to help singles meet and connect with each other in social settings, such as clubs and cafes. The app utilizes ad-hoc network communication technology to list all the singles in the range of the user's phone and send them requests to connect. This approach aims to make it easier for singles to discover potential matches in their immediate vicinity and approach them more comfortably.
+
+ **Objectives**
+The main objectives of AroundYou are to:
+1. Connect singles in social settings based on their proximity to each other
+2. Provide a more convenient and comfortable way to approach potential matches
+3. Increase the chances of successful connections by providing a more targeted and location-based matching system
+4. Create a user-friendly and secure environment for dating and socializing
+  
+**Target Audience**
+AroundYou targets singles who are looking for a more convenient and comfortable way to meet new people in social settings. The app is suitable for individuals of all ages who are comfortable with using technology to enhance their dating and socializing experiences.
+
+**Key Features**
+The main features of AroundYou include:
+1. Ad-hoc network communication technology to detect singles in the user's proximity
+2. Request-based connection system to allow users to approach potential matches more comfortably
+3. User profiles with personal information, photos, and interests
+4. Chat functionality to enable users to communicate with each other within the app
+5. Location-based matching system to connect users with compatible matches in their vicinity
+6. User privacy and security measures to ensure a safe and secure environment for dating and socializing
+  
+**Development Plan**
+The development plan for AroundYou includes the following milestones:
+1. Initial design and prototyping of the app's user interface and user experience
+2. Development of the ad-hoc network communication technology and location-based matching system
+3. Integration of the chat functionality and user profile features
+4. Testing and optimization of the app's performance, user engagement, and security measures
+5. Launch of the app on the App Store and Google Play Store
+6. Ongoing maintenance and updates to enhance the app's functionality, user experience, and security measures
+  
+**Business Model**
+1. AroundYou's business model includes the following revenue streams:
+2. Freemium model with basic features available for free and premium features available for a subscription fee
+3. In-app advertising to generate revenue from relevant third-party advertisers
+4. Sponsorship and partnerships with social and dating events to promote the app and increase user engagement
+  
+**Conclusion**
+AroundYou is a dating app that utilizes ad-hoc network communication technology to connect singles in social settings. The app's key features, including location-based matching, request-based connections, and user privacy and security measures, aim to provide a more convenient and comfortable way to meet new people and enhance socializing experiences. With a well-planned development and marketing strategy, AroundYou has the potential to become a popular and successful dating app.
+  
 </details> 
 
 <details>
