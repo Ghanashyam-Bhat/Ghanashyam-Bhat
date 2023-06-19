@@ -116,9 +116,4 @@ AroundYou is a dating app that utilizes ad-hoc network communication technology 
   
 </details> 
 
-<details>
-  <summary>
-    mɔzɔzɔ : Weekend trip organizing app
-  </summary>
-</details> 
 
