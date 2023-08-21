@@ -1,26 +1,6 @@
 ### Hi there 👋 Welcome to my world !!!
 
 ### 🏢 Also visit my organization [@2020-HelloWorld](https://github.com/2020-HelloWorld) for more projects 
-<!--
-**Ghanashyam-Bhat/Ghanashyam-Bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-### 💻 Profile Stats 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghanashyam-Bhat&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 ### If you are a developer who is interested in collaborating on project ideas, feel free to contact me at iamgmbhat@gmail.com
 
