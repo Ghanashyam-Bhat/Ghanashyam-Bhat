@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamgmbhat@gmail.com)
 
-**Systems Engineer | Home-Lab Tinkerer | Photographer**
+**Full-stack developer | Systems Engineer | Home-Lab Tinkerer**
 
 I'm a software developer focused on the intersection of hardware and software. I specialize in high-performance networking and system reliability, with a passion for building robust, scalable infrastructure.
 
@@ -38,12 +38,6 @@ I'm a software developer focused on the intersection of hardware and software. I
 
 ---
 
-### 📖 The "Success to Failure" Narrative
-
-I’m currently documenting my journey of hardware resurrection—transforming old laptops into production-grade home servers. I regularly share the technical hurdles, architectural decisions, and "lessons learned" from these home-lab experiments on my LinkedIn. 
-
----
-
 ### 🌲 Beyond the Terminal
 
 * 🏍️ **On the Road:** Solo touring on my Honda CB350.
@@ -55,7 +49,9 @@ I’m currently documenting my journey of hardware resurrection—transforming o
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghanashyam-Bhat&show_icons=true&theme=radical&hide_border=true&bg_color=080c09&title_color=7aba54&text_color=ededed&icon_color=7aba54" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&layout=compact&theme=radical&hide_border=true&bg_color=080c09&title_color=7aba54&text_color=ededed" height="150" alt="Top Languages" />
-</div>
+<p align="left">
+  <a href="https://github.com/Ghanashyam-Bhat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghanashyam-Bhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&layout=compact&theme=radical"/>
+  </a>
+</p>
