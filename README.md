@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shyam (@Ghanashyam-Bhat)
+# 👋 Hi, I'm Ghanashyam Bhat
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-121011?style=for-the-badge&logo=googlechrome&logoColor=7aba54)](https://ghanashyam-bhat.github.io/me/)
 
