@@ -47,11 +47,37 @@ I'm a software developer focused on the intersection of hardware and software. I
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streaks
 
-<p align="left">
-  <a href="https://github.com/Ghanashyam-Bhat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ghanashyam-Bhat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&layout=compact&theme=radical"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanashyam-Bhat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghanashyam-Bhat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ghanashyam-Bhat&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Ghanashyam Trophies" />
   </a>
 </p>
+
+### 📊 Language Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&layout=donut&theme=radical&hide_border=true" alt="Top Languages Donut" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghanashyam-Bhat&bg_color=080c09&color=7aba54&line=7aba54&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanashyam-Bhat&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
